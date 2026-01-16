@@ -1,0 +1,6 @@
+---
+title: "life_exp_analysis"
+format: html
+---
+
+library(tidyverse)
